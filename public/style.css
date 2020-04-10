@@ -17,7 +17,7 @@ html, button{
     border-bottom-left-radius: 35px;
     background: #b1b1b1;
     margin: auto;
-    box-shadow: 2px 4px 5px 3px rgb(100, 100, 100);
+    /* box-shadow: 2px 4px 5px 3px rgb(100, 100, 100); */
 }
 
 .calc-logo-on {
@@ -39,7 +39,7 @@ html, button{
     border-bottom-right-radius: 10px;
     border-bottom-left-radius: 10px;
     display: flex;
-    justify-content: flex-end;
+    justify-content: space-between;
     align-items: flex-end;
 }
 
