@@ -1,4 +1,6 @@
-# Calculator
+# Calculator Fun project
+
+## Vanilla JS and CSS application 
  
 ![Calculator image](https://cdn-cloudflare.ga/assets/misc/calc.png)
 
@@ -13,11 +15,12 @@
 
 * The decimal indicator, '.' does not function right now.
 * App miscalcs under certain conditions
-* Result display overflow running over edges in the case fo large demical numbers
+* Result display overflow running over edges in the case fo large demical numbers.
 
-# Coming improvements 
+# Planned improvements 
 
 * Key stroking the calculator buttons instead of needing to click them.
+* Js code refactoring for more efficient operations.
 
 ---
 ## Deployment 
