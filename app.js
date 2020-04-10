@@ -1,7 +1,5 @@
+/* SIMPLE EXPRESS APP HOST */
 const express = require('express');
-
-const app = express();
-
-app.use('/',express.static('./public'));
-
-app.listen(3000,()=>{console.log(' App Started on Port 3000')})
+express()
+    .use('/',express.static('./public'))
+    .listen(3000,()=>{console.log(' App Started on Port 3000')});
