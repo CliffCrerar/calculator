@@ -1,4 +1,4 @@
-# Calculator (WIP)
+# Calculator
  
 ![Calculator image](https://cdn-cloudflare.ga/assets/misc/calc.png)
 
